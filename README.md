@@ -6,18 +6,13 @@
 Eu sou Ricardo Carvalho, Eu sou um estudante de programação 👨‍💻 focado em desenvolvimento mobile, amante de todas as tecnólogias e com interesse em todas as partes da aplicação. 
 
 - 🔭 Atualmente estou estagiando em uma empresa como desenvolvedor Node.
-- 🌱 Estou me aprofundando na stack do momento :rocket:(Node, React, React Native)
+- :book: Estou me aprofundando na stack do momento :rocket:(Node, React, React Native)
 - 💬 Atualmente estou no 5º semestre da faculdade de ADS na FATEC-SP
 - ⚡ Languages: Javascript, Java, PHP.
 
 
-:aim: 
-:book:
-:learn:
-:study:
-:node:
-:react:
-:focuse:
+:work:
+:college:
 
 ---
 ⭐️ From [RicardoEstudante](https://github.com/RicardoEstudante)
