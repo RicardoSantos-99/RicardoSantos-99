@@ -11,7 +11,8 @@ Eu sou Ricardo Carvalho, Eu sou um estudante de programação 👨‍💻 focado
 - ⚡ Languages: Javascript, Java, PHP.
 
 
-
+:mobile: :phone:
+:cellphone:
 
 ---
 ⭐️ From [RicardoEstudante](https://github.com/RicardoEstudante)
