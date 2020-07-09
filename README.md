@@ -10,7 +10,7 @@ Eu sou Ricardo Carvalho, Eu sou um estudante de programação 👨‍💻 focado
 - 💬 Atualmente estou no 5º semestre da faculdade de ADS na FATEC-SP
 - ⚡ Languages: Javascript, Java, PHP.
 
-
+<i class="fab fa-react"></i>
 
 
 
