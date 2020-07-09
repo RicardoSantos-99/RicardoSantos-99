@@ -1,6 +1,6 @@
 # Ricardo Carvalho Santos
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-carvalho-ba865a123/)](https://www.linkedin.com/in/ricardo-carvalho-ba865a123/) 
-[![Gmail Badge](https://img.shields.io/badge/-ricardocarvalho606@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardocarvalho606@gmail.com)](ricardocarvalho606@gmail.com)
+https://img.shields.io/github/followers/RicardoEstudante?label=Follow&style=social
 
 ## Hi 👋, 
 I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
