@@ -2,19 +2,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-carvalho-ba865a123/)](https://www.linkedin.com/in/ricardo-carvalho-ba865a123/) 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/RicardoEstudante?label=Follow&style=social">
 
-## Hi 👋, 
-I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
-🏄‍♂️. 
+## Oi 👋, 
+Eu sou Ricardo Carvalho, Eu sou um estudante de programação 👨‍💻 focado em desenvolvimento mobile, amante de todas as tecnólogias e com interesse em todas as partes da aplicação. 
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about: tech, memes, anime
-- 😄 Pronouns: he/him
--  ⚡ Languages: Java, Kotlin, Python3
+- 🔭 Atualmente estou estagiando em uma empresa como desenvolvedor Node.
+- 🌱 Estou me aprofundando na stack do momento (Node, React, React Native)
+- 💬 Atualmente estou no 5º semestre da faculdade de ADS na FATEC-SP
+- ⚡ Languages: Javascript, Java, PHP.
 
 
-> El Psy Kongroo
+
 
 
 ---
-⭐️ From [KunalRaghav](https://github.com/KunalRaghav)
+⭐️ From [RicardoEstudante](https://github.com/RicardoEstudante)
