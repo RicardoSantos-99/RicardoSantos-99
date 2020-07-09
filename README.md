@@ -10,9 +10,5 @@ Eu sou Ricardo Carvalho, Eu sou um estudante de programação 👨‍💻 focado
 - 💬 Atualmente estou no 5º semestre da faculdade de ADS na FATEC-SP
 - ⚡ Languages: Javascript, Java, PHP.
 
-
-:work:
-:college:
-
 ---
 ⭐️ From [RicardoEstudante](https://github.com/RicardoEstudante)
