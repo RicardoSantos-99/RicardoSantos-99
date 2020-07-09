@@ -3,7 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/RicardoEstudante?label=Follow&style=social">
 
 ## Oi 👋, 
-Eu sou Ricardo Carvalho, Eu sou um estudante de programação 👨‍💻 focado em desenvolvimento mobile, amante de todas as tecnólogias e com interesse em todas as partes da aplicação. 
+Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em desenvolvimento mobile, amante de todas as tecnólogias e com interesse em todas as partes da aplicação. 
 
 - 🔭 Atualmente estou estagiando em uma empresa como desenvolvedor Node.
 - :book: Estou me aprofundando na stack do momento :rocket:(Node, React, React Native)
