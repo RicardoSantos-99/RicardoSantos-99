@@ -5,7 +5,7 @@
  </a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardocarvalho606@gmail.com)](mailto:ricardocarvalho606@gmail.com)
 
-## Oi 👋, 
+## Olá 👋, 
 Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em desenvolvimento mobile, amante de todas as tecnólogias e com interesse em todas as partes da aplicação. 
 
 - 💬 Estou no 5º semestre da faculdade de Análise e Desenvolvimento de Sistemas na FATEC-SP
