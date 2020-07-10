@@ -1,7 +1,7 @@
 # Ricardo Carvalho Santos
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-carvalho-ba865a123/)](https://www.linkedin.com/in/ricardo-carvalho-ba865a123/) 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/RicardoEstudante?label=Follow&style=social">
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardocarvalho606@gmail.com)](mailto:ricardocarvalho606@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ricardocarvalho606@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardocarvalho606@gmail.com)](mailto:ricardocarvalho606@gmail.com)
 
 ## Oi 👋, 
 Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em desenvolvimento mobile, amante de todas as tecnólogias e com interesse em todas as partes da aplicação. 
