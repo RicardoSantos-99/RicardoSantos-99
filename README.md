@@ -10,8 +10,8 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RicardoEstudante&show_icons=true" alt="RicardoEstudante" /> </p>
 <p align="center">
-<a href="https://linkedin.com/in/ricardo carvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo carvalho" height="20" width="20" /></a>
-<a href="https://fb.com/https://www.linkedin.com/in/ricardo-carvalho-ba865a123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.linkedin.com/in/ricardo-carvalho-ba865a123/" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/ricardo-carvalho-ba865a123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo carvalho" height="20" width="20" /></a>
+<a href="https://www.facebook.com/ricardo2010carvalho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.linkedin.com/in/ricardo-carvalho-ba865a123/" height="20" width="20" /></a>
 </p>
 
 
