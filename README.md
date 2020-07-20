@@ -1,5 +1,6 @@
 <h1 align="center">Ricardo Carvalho</h1>
 <h3 align="center">Full Stack developer</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-carvalho-ba865a123/)](https://www.linkedin.com/in/ricardo-carvalho-ba865a123/) 
  <a href="https://github.com/RicardoEstudante">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RicardoEstudante?label=Ricardo&style=social">
