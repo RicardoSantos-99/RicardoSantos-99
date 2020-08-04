@@ -30,7 +30,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em
  <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="20" height="20"/> 
  <img src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="java" width="20" height="20"/> 
  <img src="https://image.flaticon.com/icons/svg/919/919828.svg" alt="javascript" width="20" height="20"/> 
- <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" alt="typescript" width="20" height="20"/>
+ <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="20" height="20"/>
  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
  <img src="https://image.flaticon.com/icons/svg/2772/2772128.svg" alt="sql" width="20" height="20"/> 
  <img src="https://image.flaticon.com/icons/svg/919/919830.svg" alt="php" width="20" height="20"/> 
