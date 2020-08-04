@@ -1,7 +1,8 @@
 <h1 align="center">Ricardo Carvalho</h1>
-<h3 align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="20" height="20"/>Full Stack developer<img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/19108918321553750384-512.png" alt="react-native" width="20" height="20"/></h3>
+<h3 align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="20" height="20"/>Full Stack developer<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/></h3>
+<h3 align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/19108918321553750384-512.png" alt="react-native" width="20" height="20"/></h3>
 
- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/>
+ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-carvalho-ba865a123/)](https://www.linkedin.com/in/ricardo-carvalho-ba865a123/) 
  <a href="https://github.com/RicardoEstudante">
