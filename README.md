@@ -24,12 +24,13 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em
 - :book: Estou me aprofundando na stack do momento :rocket:(Node, React, React Native).
 
 - <p align="left">⚡ Tecnologias: 
- <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png" alt="react" width="20" height="20"/> 
+ <img src="https://image.flaticon.com/icons/png/512/1183/1183672.png" alt="react" width="20" height="20"/>
+ <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/19108918321553750384-512.png" alt="react-native" width="20" height="20"/>
  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> 
  <img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="20" height="20"/> 
  <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="20" height="20"/> 
  <img src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="java" width="20" height="20"/> 
- <img src="https://image.flaticon.com/icons/svg/919/919828.svg" alt="javascript" width="20" height="20"/> 
+ <img src="https://cdn1.iconfinder.com/data/icons/development-2-yellow/60/30_-Javascript-_development_coding_programming_code-512.png" alt="javascript" width="20" height="20"/> 
  <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="20" height="20"/>
  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
  <img src="https://image.flaticon.com/icons/svg/2772/2772128.svg" alt="sql" width="20" height="20"/> 
