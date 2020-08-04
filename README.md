@@ -35,7 +35,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em
  <img src="https://image.flaticon.com/icons/svg/2772/2772128.svg" alt="sql" width="20" height="20"/> 
  <img src="https://image.flaticon.com/icons/svg/919/919830.svg" alt="php" width="20" height="20"/> 
  <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> 
- <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/></p>
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="30" height="30"/></p>
 
 ---
 ⭐️ From [RicardoEstudante](https://github.com/RicardoEstudante)
