@@ -24,7 +24,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em
 
 - :book: Estou me aprofundando na stack do momento :rocket:(Node, React, React Native).
 
-- < align="left">⚡ Tecnologias: 
+- ⚡ Tecnologias: 
   - Linguagens: <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="20" height="20"/>  <img src="https://cdn1.iconfinder.com/data/icons/development-2-yellow/60/30_-Javascript-_development_coding_programming_code-512.png" alt="javascript" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="20" height="20"/>  
   - Frameworks e libs: <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/>
