@@ -9,7 +9,7 @@
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/ricardo-carvalho-santos-1583704453)](https://app.rocketseat.com.br/me/ricardo-carvalho-santos-1583704453)
 
 ## Olá 👋, 
-Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em desenvolvimento mobile, amante de todas as tecnólogias e com interesse em todas as partes da aplicação. 
+Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻, amante de todas as tecnólogias e com interesse em todas as partes da aplicação. 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RicardoEstudante&show_icons=true&hide_border=true&theme=dark" alt="RicardoEstudante" /> </p>
 <p align="center">
@@ -21,8 +21,6 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻 focado em
 - 💬 Estou no 5º semestre da faculdade de Análise e Desenvolvimento de Sistemas na FATEC-SP.
 
 - 🔭 Estou estagiando em uma empresa como desenvolvedor Node.
-
-- :book: Estou me aprofundando na stack do momento :rocket:(Node, React, React Native).
 
 - ⚡ Tecnologias: 
   - Linguagens: <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="20" height="20"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="20" height="20"/>  <img src="https://cdn1.iconfinder.com/data/icons/development-2-yellow/60/30_-Javascript-_development_coding_programming_code-512.png" alt="javascript" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="20" height="20"/>
