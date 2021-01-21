@@ -22,15 +22,6 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻, amante d
 
 - 🔭 Estou estagiando em uma empresa como desenvolvedor Node.
 
-- ⚡ Tecnologias: 
-  - Linguagens: 
-  - Infra e outros: 
-  - Sistemas operacionais: 
-  <img src="https://img.icons8.com/office/16/000000/windows-10.png" alt="win10" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/linux-mint.png" alt="mint" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="ubuntu" width="20" height="20"/> 
-  <img src="https://img.icons8.com/plasticine/100/000000/android-os.png" alt="android" width="20" height="20"/>
-
 **Aplicações e Dados**
  
   ![C](https://img.shields.io/badge/-c-333333?style=flat&logo=c)
@@ -63,17 +54,11 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻, amante d
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn&logoColor=007ACC)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm&logoColor=007ACC)
 
-**DevOps**
+**Sistemas Opereacionais**
 
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-  ![Mint](https://img.shields.io/badge/-Mint-333333?style=flat&logo=mint)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-<br/>
-   
-   
-</p>
-
-
+<br/></p>
  
 ---
 ⭐️ From [RicardoEstudante](https://github.com/RicardoEstudante)
