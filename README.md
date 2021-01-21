@@ -46,6 +46,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻, amante d
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de Desenvolvimento**
