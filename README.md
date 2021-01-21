@@ -33,7 +33,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻, amante d
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 **Utilidades**
 
