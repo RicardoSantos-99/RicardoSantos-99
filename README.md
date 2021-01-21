@@ -24,12 +24,11 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻, amante d
 
 **Aplicações e Dados**
  
-  ![](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
