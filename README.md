@@ -42,7 +42,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻, amante d
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-  ![Sql](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 
 **Utilidades**
 
@@ -59,12 +59,15 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 👨‍💻, amante d
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash&logoColor=007ACC)
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn&logoColor=007ACC)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm&logoColor=007ACC)
-  
+
+**DevOps**
+
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+  ![Mint](https://img.shields.io/badge/-Mint-333333?style=flat&logo=mint)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 <br/>
    
    
