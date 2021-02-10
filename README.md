@@ -9,7 +9,7 @@
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/ricardo-carvalho-santos-1583704453)](https://app.rocketseat.com.br/me/ricardo-carvalho-santos-1583704453)
 
 ## Olá 👋, 
-Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º semestre da faculdade de Análise e Desenvolvimento de Sistemas na FATEC-SP 🎓 , Estou estagiando em uma empresa como desenvolvedor Node 💼.
+Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º semestre da faculdade de Análise e Desenvolvimento de Sistemas na FATEC-SP 🎓.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RicardoEstudante&show_icons=true&hide_border=true&theme=dark" alt="RicardoEstudante" /> </p>
 <p align="center">
@@ -26,7 +26,6 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º se
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
