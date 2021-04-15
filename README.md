@@ -49,7 +49,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º se
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn&logoColor=007ACC)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm&logoColor=007ACC)
 
-**Sistemas Opereacionais**
+**Sistemas Operacionais**
 
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
