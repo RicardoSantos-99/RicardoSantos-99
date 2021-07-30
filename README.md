@@ -21,8 +21,10 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º se
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
+  ![Nest.JS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
@@ -38,13 +40,15 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º se
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Gitkraken](https://img.shields.io/badge/-Gitkraken-333333?style=flat&logo=bitbucket)
+  ![Bitbucket](https://img.shields.io/badge/-Postman-333333?style=flat&logo=gitkraken)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn&logoColor=007ACC)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm&logoColor=007ACC)
@@ -53,6 +57,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º se
 
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Manjaro](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=manjaro)
 <br/></p>
  
 ---
