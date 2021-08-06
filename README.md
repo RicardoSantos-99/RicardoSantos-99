@@ -11,7 +11,7 @@
 ## Olá 👋, 
 Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º semestre da faculdade de Análise e Desenvolvimento de Sistemas na FATEC-SP 🎓, Atualmente trabalho como desenvolvedor full stack web.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RicardoSantos-99&show_icons=true&hide_border=true&theme=dark" alt="RicardoSantos-99" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RicardoSantos-99&show_icons=true&hide_border=true&theme=dracula" alt="RicardoSantos-99" /> </p>
 <p align="center">
 </p>
 
