@@ -40,8 +40,8 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º se
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Gitkraken](https://img.shields.io/badge/-Gitkraken-333333?style=flat&logo=bitbucket&logoColor=blue)
-  ![Bitbucket](https://img.shields.io/badge/-Postman-333333?style=flat&logo=gitkraken)
+  ![Gitkraken](https://img.shields.io/badge/-Gitkraken-333333?style=flat&logo=Gitkraken)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=Bitbucket&logoColor=blue)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=blue)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
