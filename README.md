@@ -24,7 +24,7 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º se
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
-  ![Nest.JS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=dark)
+  ![Nest.JS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=black)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=0000ff)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=orange)
