@@ -13,8 +13,8 @@ Eu sou Ricardo Carvalho, Sou um estudante de programação 💻, estou no 6º se
 
 <div>
   <a href="https://github.com/RicardoSantos-99">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RicardoSantos-99&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSantos-99&layout=compact&langs_count=7&theme=aura "/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RicardoSantos-99&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSantos-99&layout=compact&langs_count=7&theme=aura "/>
 </div>
 
 
