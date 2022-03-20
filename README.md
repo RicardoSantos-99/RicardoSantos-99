@@ -31,6 +31,7 @@ Eu sou Ricardo Carvalho, Sou programador full stack 💻, estou cursando a facul
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=orange)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![GraphQL](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql&logoColor=da0093)
 
 **Utilidades**
 
