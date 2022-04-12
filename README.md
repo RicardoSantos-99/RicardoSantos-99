@@ -37,6 +37,8 @@ Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculda
   ![Nest.JS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=ea2845)
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes&logoColor=3069de)
   ![Prisma](https://img.shields.io/badge/-prisma-333333?style=flat&logo=prisma&logoColor=6abc7d)
+  ![Python]( https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+ 
 
 **Utilidades**
 
