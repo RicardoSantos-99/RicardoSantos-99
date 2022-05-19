@@ -29,16 +29,18 @@ Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculda
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=orange)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![GraphQL](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql&logoColor=da0093)
   
 **Estudando**
   
-  ![GraphQL](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql&logoColor=da0093)
   ![Elixir](https://img.shields.io/badge/-elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
+  ![Python]( https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  
+**Interesses**
+  
   ![Nest.JS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=ea2845)
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes&logoColor=3069de)
   ![Prisma](https://img.shields.io/badge/-prisma-333333?style=flat&logo=prisma&logoColor=6abc7d)
-  ![Python]( https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
- 
 
 **Utilidades**
 
