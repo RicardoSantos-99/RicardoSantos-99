@@ -69,4 +69,4 @@ Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculda
 <br/></p>
  
 ---
-⭐️ From [RicardoEstudante](https://github.com/RicardoSantos-99)
+⭐️ From [RicardoSantos-99](https://github.com/RicardoSantos-99)
