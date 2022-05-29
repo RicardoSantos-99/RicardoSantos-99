@@ -8,7 +8,7 @@
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/ricardo-carvalho-santos-1583704453)](https://app.rocketseat.com.br/me/ricardo-carvalho-santos-1583704453)
 
 ## Olá 👋, 
-Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas e trabalhando com elixir e javascript
+Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas e trabalhando com elixir e javascript 
 
 <div>
   <a href="https://github.com/RicardoSantos-99">
@@ -69,4 +69,4 @@ Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculda
 <br/></p>
  
 ---
-⭐️ From [RicardoEstudante](https://github.com/RicardoEstudante)
+⭐️ From [RicardoEstudante](https://github.com/RicardoSantos-99)
