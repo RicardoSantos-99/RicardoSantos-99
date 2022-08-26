@@ -1,4 +1,4 @@
-<h1 align="center">Ricardo Carvalho</h1>
+<h1 align="center">Ricardo Carvalho Santos</h1>
 <h3 align="center"><img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" alt="elixir" width="30" height="30"/> Back-end developer <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/></h3>
 
 
