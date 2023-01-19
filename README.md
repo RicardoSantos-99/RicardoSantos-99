@@ -9,10 +9,6 @@
 
 ## Olá 👋, 
 Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas e trabalhando com as tecnologias Elixir e Typescript
-<div>
-  <a href="https://github.com/RicardoSantos-99">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RicardoSantos-99&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-</div>
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RicardoSantos-99&theme=dark)](https://git.io/streak-stats)
 
