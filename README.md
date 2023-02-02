@@ -16,23 +16,18 @@ Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculda
 **Aplicações e Dados**
  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=orange)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![GraphQL](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql&logoColor=da0093)
+  ![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
   
 **Estudando**
   
-  ![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
   ![Python]( https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Nest.JS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=ea2845)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=3069de)
-  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=6abc7d)
   
 **Utilidades**
 
