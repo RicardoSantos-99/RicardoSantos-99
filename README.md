@@ -21,10 +21,6 @@ Here are some of the technologies I have experience with:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=da0093)
 ![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=GitKraken)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=Bitbucket&logoColor=blue)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ### What I Do
