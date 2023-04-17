@@ -1,62 +1,40 @@
 <h1 align="center">Ricardo Carvalho Santos</h1>
-<h3 align="center"><img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" alt="elixir" width="30" height="30"/> Back-end developer <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/></h3>
+<h3 align="center">Back-end Developer</h3>
 
+## Hello there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/ricardo-carvalho-ba865a123/)](https://www.linkedin.com/in/ricardo-carvalho-ba865a123/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/ricardocarv)](https://whats.link/ricardocarv)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:ricardocarvalho606@gmail.com)](mailto:duduxss3@gmail.com)
-[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/ricardo-carvalho-santos-1583704453)](https://app.rocketseat.com.br/me/ricardo-carvalho-santos-1583704453)
+I'm Ricardo Carvalho, a back-end developer with a focus on Elixir and Phoenix. I'm currently pursuing a degree in Systems Analysis and Development, and I'm passionate about solving puzzles and tackling challenges.
 
-## Olá 👋, 
-Eu sou Ricardo Carvalho, Sou programador back-end 💻, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas e trabalhando com as tecnologias Elixir e Typescript
- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RicardoSantos-99&theme=dark)](https://git.io/streak-stats)
 
 
-**Aplicações e Dados**
- 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![GraphQL](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql&logoColor=da0093)
-  ![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
-  
-**Estudando**
-  
-  ![Python]( https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=3069de)
-  
-**Utilidades**
+### Technologies
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+Here are some of the technologies I have experience with:
 
-**DevOps**
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=da0093)
+![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=GitKraken)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=Bitbucket&logoColor=blue)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=blue)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Gitkraken](https://img.shields.io/badge/-Gitkraken-333333?style=flat&logo=Gitkraken)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=Bitbucket&logoColor=blue)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=blue)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+### What I Do
 
-**Ferramentas de Desenvolvimento**
+I've worked on various projects throughout my career, including developing features for call center platforms, HR platforms, and event management platforms. I'm currently working on the Coda project at Accenture, which is a tool that scans code in ServiceNow instances to identify bugs and generate reports. As a back-end developer, I focus on improving the performance of the scanning process, developing new features, and making the tool more scalable using Elixir.
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn&logoColor=007ACC)
-  ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm&logoColor=007ACC)
+### Contact
 
-**Sistemas Operacionais**
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ricardo-carvalho-ba865a123/) or [WhatsApp](https://whats.link/ricardocarv) if you want to chat about any of my projects or potential collaborations.
 
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=blue)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Manjaro](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=manjaro)
-<br/></p>
- 
 ---
+
 ⭐️ From [RicardoSantos-99](https://github.com/RicardoSantos-99)
