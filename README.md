@@ -25,7 +25,7 @@ Here are some of the technologies I have experience with:
 
 ### What I Do
 
-I've worked on various projects throughout my career, including developing features for call center platforms, HR platforms, and event management platforms. I'm currently working on the Coda project at Accenture, which is a tool that scans code in ServiceNow instances to identify bugs and generate reports. As a back-end developer, I focus on improving the performance of the scanning process, developing new features, and making the tool more scalable using Elixir.
+Throughout my career, I've engaged in various projects, including the development of features for call center platforms, HR platforms, and event management platforms. Currently, I am part of the team at Stone, working as a back-end developer specializing in Elixir. My role involves creating tools that assist and automate tasks within core banking operations, such as generating reports for the Central Bank of Brazil's (BACEN) open accounts (CCS). This work not only focuses on enhancing efficiency but also on ensuring accuracy and compliance in banking processes.
 
 ### Contact
 
