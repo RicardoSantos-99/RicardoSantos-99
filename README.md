@@ -12,16 +12,28 @@ I'm Ricardo Carvalho, a back-end developer with a focus on Elixir and Phoenix. I
 
 Here are some of the technologies I have experience with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+#### Programming Languages, Frameworks, Runtimes
+![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Phoenix](https://img.shields.io/badge/-Phoenix-333333?style=flat&logo=phoenixframework)
+
+#### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=Mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
+#### Messaging and Queues
+
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
+
+##### Others
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=da0093)
-![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![K8S](https://img.shields.io/badge/-K8S-333333?style=flat&logo=kubernetes)
+
 
 ### What I Do
 
