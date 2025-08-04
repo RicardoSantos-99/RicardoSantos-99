@@ -3,10 +3,9 @@
 
 ## Hello there 👋
 
-I'm Ricardo Carvalho, a back-end developer with a focus on Elixir and Phoenix. I'm currently pursuing a degree in Systems Analysis and Development, and I'm passionate about solving puzzles and tackling challenges.
+I'm Ricardo Carvalho, a back-end developer with a focus on Elixir and Phoenix. I hold a degree in Systems Analysis and Development and am currently studying Database Systems. I'm passionate about solving puzzles and tackling challenges.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RicardoSantos-99&theme=dark)](https://git.io/streak-stats)
-
 
 ### Technologies
 
@@ -14,6 +13,7 @@ Here are some of the technologies I have experience with:
 
 #### Programming Languages, Frameworks, Runtimes
 ![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
+![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-333333?style=flat&logo=phoenixframework)
@@ -33,11 +33,16 @@ Here are some of the technologies I have experience with:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![K8S](https://img.shields.io/badge/-K8S-333333?style=flat&logo=kubernetes)
-
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 
 ### What I Do
 
-Throughout my career, I've engaged in various projects, including the development of features for call center platforms, HR platforms, and event management platforms. Currently, I am part of the team at Stone, working as a back-end developer specializing in Elixir. My role involves creating tools that assist and automate tasks within core banking operations, such as generating reports for the Central Bank of Brazil's (BACEN) open accounts (CCS). This work not only focuses on enhancing efficiency but also on ensuring accuracy and compliance in banking processes.
+Throughout my career, I've engaged in various projects, including the development of features for call center platforms, HR platforms, and event management platforms. In a previous role, I contributed to the development and evolution of Pix and the DICT system, working at a financial technology company that interfaced directly with the Central Bank of Brazil. I helped implement core functionalities of Brazil's real-time payments infrastructure, ensuring compliance with regulatory and technical standards.
+
+Currently, I’m part of the team at Stone, working as a back-end developer in the boletos domain, using Elixir (with Phoenix) and Go. My work involves building and maintaining services that support core banking operations — such as generating reports for the Central Bank’s open accounts system (CCS) — with a strong focus on automation, reliability, and regulatory compliance.
+
+On the technical side, I work extensively with Kafka, RabbitMQ, PostgreSQL, and Kubernetes, building distributed, event-driven systems that are both scalable and fault-tolerant. I also leverage observability tools like OpenTelemetry, Grafana, and Prometheus to ensure visibility and performance across our services. My daily routine involves handling high-throughput data, resilient architectures, and the complexities of financial integrations in a regulated environment.
 
 ### Contact
 
